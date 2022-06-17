@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>555093756803-a9mvob8kee8nu23qo843qt6drkg477dq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.555093756803-a9mvob8kee8nu23qo843qt6drkg477dq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAbZpzVDqXIN2Eb4nmH4zvCo_X7sTWiipo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>555093756803</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ali.Andreea</string>
+	<key>PROJECT_ID</key>
+	<string>andreea-effae</string>
+	<key>STORAGE_BUCKET</key>
+	<string>andreea-effae.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:555093756803:ios:9bb962a261d29b683684b6</string>
+</dict>
+</plist>
